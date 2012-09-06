@@ -8,15 +8,15 @@ Welcome to Ruby!
 
 * Install RSpec
 
-        sudo gem install rspec
+        gem install rspec
 
 * Configure RSpec (optional). If you're running a bash shell, you can put the following in your .bash_profile to make the output a bit nicer.
 
-        alias spec="spec --color --format nested"
+        alias rspec="rspec --color --format nested"
 
 * For lesson 14
 
-      sudo gem install fakeweb
+      gem install fakeweb
 
 ## Resources
 
